@@ -1,0 +1,6 @@
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVNumberGuess7-30\BryantVNumberGuess7-30\bin\Debug\BryantVNumberGuess7-30.exe.config
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVNumberGuess7-30\BryantVNumberGuess7-30\obj\Debug\BryantVNumberGuess7-30.csprojResolveAssemblyReference.cache
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVNumberGuess7-30\BryantVNumberGuess7-30\bin\Debug\BryantVNumberGuess7-30.exe
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVNumberGuess7-30\BryantVNumberGuess7-30\bin\Debug\BryantVNumberGuess7-30.pdb
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVNumberGuess7-30\BryantVNumberGuess7-30\obj\Debug\BryantVNumberGuess7-30.exe
+c:\users\bryant\documents\visual studio 2013\Projects\BryantVNumberGuess7-30\BryantVNumberGuess7-30\obj\Debug\BryantVNumberGuess7-30.pdb
